@@ -1,5 +1,0 @@
-This repository is for learning Git and GitHub.
-
-Add notes file
-
-remove notes file
